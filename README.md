@@ -9,7 +9,7 @@
 
 **Network Monitoring & Configuration:**  
 - Monitored network performance and resolved issues using **Zabbix**.  
-- Deployed and configured **VoIP telephony systems** for seamless communication.
+- "Independently deployed and configured **VoIP telephony systems** for seamless communication.
 
 **Hardware Installation & Troubleshooting:**  
 - Installed and terminated network cabling (RJ45, Keystone jacks) and organized server racks.  
