@@ -1,7 +1,7 @@
 
 ## Work Experience
 
-**Company:** [Informatics Fan Negar Novin](http://fannegar.net)  
+**Company:** [Informatics Fan Negar Novin](http://fannegar.net) ـ March 2025
 **Industry:** Network Infrastructure Installation & Maintenance  
 **Position:** Network Technician Intern (Praktikum)  
 **Duration:** March 2025 – Present  
