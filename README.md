@@ -8,7 +8,7 @@
 #### **Key Responsibilities & Achievements**
  
 - Monitored and troubleshot network performance using **Zabbix**
-- Independently deployed and configured **VoIP telephony systems**  
+- Configured and optimized **VoIP telephony systems** (Cisco, Asterisk), improving call quality and system reliability."
 - Installed and terminated network components — including ducts, trunking, Keystone jacks, patch panels, and racks. 
 - Diagnosed and repaired cable faults using **cable testers** and **toner/trace tools**.  
 - Performed hardware maintenance, including cleaning devices with **compressed air systems**.
