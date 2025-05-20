@@ -7,7 +7,7 @@
 
 #### **Key Responsibilities & Achievements**
  
-- Added and configured all critical network devices in **Zabbix** to ensure effective and continuous. monitoring.
+- Added and configured all critical network devices in **Zabbix** to ensure effective and continuous monitoring.
 - Configured and optimized **VoIP telephony systems** (Cisco, Asterisk), improving call quality and system reliability."
 - Installed and terminated network components — including ducts, trunking, Keystone jacks, patch panels, and racks. 
 - Diagnosed and repaired cable faults using **cable testers** and **toner/trace tools**.  
