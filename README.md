@@ -1,17 +1,20 @@
-# My Work Experience
+
+
+### **Work Experience**  
 **Company:** Informatics Fan Negar Novin  
 **Website:** [fannegar.net](https://fannegar.net)  
-**Field:** Network Infrastructure Installation and Maintenance  
+**Industry:** Network Infrastructure Installation & Maintenance  
+**Position:** Network Technician Intern (Praktikum)  
+**Duration:** March 2025 – Present  
 
-**Intern - Network Installation and Maintenance**  
-**Start Date:** 2025/03/15  
+#### **Key Responsibilities & Achievements**  
+**Network Monitoring & Configuration:**  
+- Monitored network performance and resolved issues using **Zabbix**.  
+- Deployed and configured **VoIP telephony systems** for seamless communication.  
 
-**My Activities and Responsibilities**  
-**Active Tasks:**  
-- Monitored and maintained networks using Zabbix.  
+**Hardware Installation & Troubleshooting:**  
+- Installed and terminated network cabling (RJ45, Keystone jacks) and organized server racks.  
+- Diagnosed and repaired cable faults using **cable testers** and **toner/trace tools**.  
+- Performed hardware maintenance, including cleaning devices with **compressed air systems**.  
 
-**Passive Tasks:**  
-- Installed and configured network components, including cable management, rack installation, RJ45 patch cables, keystone jacks, and network equipment.  
-- Troubleshot network cable issues with tools like Cable Testers and Line Finders.  
-- Network Equipment Servicing, including disassembling and cleaning hardware with blowers.
-
+**Additional Notes:**  
