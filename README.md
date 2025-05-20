@@ -6,18 +6,15 @@
 **Position:** Network Technician Intern (Praktikum)  
 **Duration:** March 2025 – Present  
 
-### Main Tasks and Responsibilities
 
-**Network Monitoring and Configuration**
-- Monitored network performance and identified issues using Zabbix.  
-- Helped with setting up and configuring VoIP systems for internal communication.
+#### **Key Responsibilities & Achievements**  
+**Network Monitoring & Configuration:**  
+- Monitored network performance and resolved issues using **Zabbix**.  
+- Deployed and configured **VoIP telephony systems** for seamless communication.  
 
-**Installation and Troubleshooting**
-- Installed and terminated network cables (RJ45, keystone jacks) and organized server racks.  
-- Used cable testers and toner tools to find and fix cable problems.  
-- Cleaned and maintained hardware devices with compressed air tools.
+**Hardware Installation & Troubleshooting:**  
+- Installed and terminated network cabling (RJ45, Keystone jacks) and organized server racks.  
+- Diagnosed and repaired cable faults using **cable testers** and **toner/trace tools**.  
+- Performed hardware maintenance, including cleaning devices with **compressed air systems**.  
 
-### Tools and Skills
-- Cisco routers and switches (basic CLI commands)  
-- Network testing tools, VoIP systems  
-- Zabbix monitoring system
+**Additional Notes:**  
